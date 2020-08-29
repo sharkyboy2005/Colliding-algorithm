@@ -1,2 +1,2 @@
 # Colliding-algorithm
-idk
+this is a colliding algorithm
